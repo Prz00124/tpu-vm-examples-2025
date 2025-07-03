@@ -10,4 +10,4 @@ gcloud compute tpus tpu-vm ssh test123 --zone=us-central1-a --worker=all --comma
 # Execute the test script.
 gcloud compute tpus tpu-vm ssh test123 --zone=us-central1-a --worker=0 --command="python test_tpu.py"
 
-# You should see 4 tensor printed.
+# You should see 8 tensor printed.
