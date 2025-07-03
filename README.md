@@ -1,4 +1,4 @@
-# TPU2025_Examples
+# TPU VM examples 2025
 It's a repository of __tpu vm__ settings on July 2025.
 
 Due to the examples on official tutorial is confusing, I tried several configures of TPU vm. Here is it.
